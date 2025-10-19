@@ -1,6 +1,6 @@
 #EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz" 
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV1.png" catchup="default" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}&playseek=${start}-${end}", CCTV1
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT&playseek={utc:YmdHMS}-{utcend:YmdHMS}&playseek=${start}-${end}", CCTV1
 http://192.168.123.1:8888/rtp/239.253.254.77:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV2.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV2
 http://192.168.123.1:8888/rtp/239.253.254.232:8000?fcc=61.156.103.83:8027
