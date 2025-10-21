@@ -106,11 +106,11 @@ http://192.168.123.2:8888/udp/239.253.254.246:8000?fcc=61.156.103.83:8027
 http://192.168.123.2:8888/udp/239.253.254.248:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="莱西综合" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/莱西.png" group-title="山东频道",莱西综合
 http://192.168.123.2:8888/udp/239.253.254.247:8000?fcc=61.156.103.83:8027
-#EXTINF:-1  tvg-name="西海岸生活" tvg-logo="" group-title="山东频道",西海岸生活
+#EXTINF:-1  tvg-name="西海岸生活" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/西海岸.png" group-title="山东频道",西海岸生活
 http://192.168.123.2:8888/udp/239.253.254.244:8000?fcc=61.156.103.83:8027
-#EXTINF:-1  tvg-name="西海岸新闻" tvg-logo="" group-title="山东频道",西海岸新闻
+#EXTINF:-1  tvg-name="西海岸新闻" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/西海岸.png" group-title="山东频道",西海岸新闻
 http://192.168.123.2:8888/udp/239.253.254.243:8000?fcc=61.156.103.83:8027
-#EXTINF:-1  tvg-name="西海岸新闻" tvg-logo="" group-title="山东频道",西海岸新闻
+#EXTINF:-1  tvg-name="西海岸新闻" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/西海岸.png" group-title="山东频道",西海岸新闻
 http://192.168.123.2:8888/udp/239.253.254.231:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CHC家庭影院.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC家庭影院
 http://192.168.123.2:8888/rtp/239.253.254.152:8000?fcc=61.156.103.83:8027
