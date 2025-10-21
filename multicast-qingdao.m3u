@@ -82,7 +82,7 @@ http://192.168.123.2:8888/rtp/239.253.254.25:8000?fcc=61.156.103.83:8027
 http://192.168.123.2:8888/rtp/239.253.254.104:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="山东教育" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东教育.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东教育
 http://192.168.123.2:8888/rtp/239.253.254.59:8000?fcc=61.156.103.83:8027
-#EXTINF:-1 tvg-name="山东经济广播" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东经济广播.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24040915081276788638.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东经济广播
+#EXTINF:-1 tvg-name="山东经济广播" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24040915081276788638.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东经济广播
 http://192.168.123.2:8888/rtp/239.253.254.166:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东海洋频道.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东海洋频道
 http://192.168.123.2:8888/rtp/239.253.254.67:8000?fcc=61.156.103.83:8027
@@ -95,16 +95,16 @@ http://192.168.123.2:8888/udp/239.253.254.251:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="青岛QTV4" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/QTV4.png" group-title="山东频道",青岛QTV4
 http://192.168.123.2:8888/udp/239.253.254.252:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="青岛QTV5" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/QTV5.png" group-title="山东频道",青岛QTV5
-http://192.168.123.2:8888/udp/239.253.254.253:8000?fcc=61.156.103.83:8027
+http://192.168.123.2:8888/udp/239.253.254.254:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="青岛QTV6" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/QTV6.png" group-title="山东频道",青岛QTV6
 http://192.168.123.2:8888/udp/239.253.254.254:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="青岛崂山" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/崂山.png" group-title="山东频道",青岛崂山
 http://192.168.123.2:8888/udp/239.253.254.242:8000?fcc=61.156.103.83:8027
-#EXTINF:-1  tvg-name="胶州综合" tvg-logo="" group-title="山东频道",胶州综合
+#EXTINF:-1  tvg-name="胶州综合" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/胶州.png" group-title="山东频道",胶州综合
 http://192.168.123.2:8888/udp/239.253.254.246:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="平度电视台" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/平度.png" group-title="山东频道",平度电视台
 http://192.168.123.2:8888/udp/239.253.254.248:8000?fcc=61.156.103.83:8027
-#EXTINF:-1  tvg-name="莱西综合" tvg-logo="" group-title="山东频道",莱西综合
+#EXTINF:-1  tvg-name="莱西综合" tvg-logo="https://raw.githubusercontent.com/lanchuansheng/CDN/main/logo/莱西.png" group-title="山东频道",莱西综合
 http://192.168.123.2:8888/udp/239.253.254.247:8000?fcc=61.156.103.83:8027
 #EXTINF:-1  tvg-name="西海岸生活" tvg-logo="" group-title="山东频道",西海岸生活
 http://192.168.123.2:8888/udp/239.253.254.244:8000?fcc=61.156.103.83:8027
